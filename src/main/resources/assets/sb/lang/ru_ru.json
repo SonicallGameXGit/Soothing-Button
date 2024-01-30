@@ -1,0 +1,13 @@
+{
+  "sb.options": "Настройки Soothing Button",
+  "sb.options.marioMode": "Режим Марио",
+  "sb.options.screenShake": "Тряска Экрана",
+  "sb.options.rotateSpeed": "Скорость Поворота",
+  "sb.options.rotateSharpness": "Резкость Поворота",
+  "sb.options.scoreFlashSpeed": "Скорость Вспышки Очков",
+  "sb.options.marioMode.tooltip": "Загружает текстуры и звуки марио на кнопку :)",
+  "sb.options.screenShake.tooltip": "На сколько сильно будет трястись экран при ударе кнопки об край",
+  "sb.options.rotateSpeed.tooltip": "Как быстро кнопка будет поворачиваться при полете (не влияет на физику, только визуально)",
+  "sb.options.rotateSharpness.tooltip": "Как резко кнопка будет поворачиваться (когда кнопка стоит на полу, поворот резко выпрямляется, чтобы исправить это, я создал этот параметер)",
+  "sb.options.scoreFlashSpeed.tooltip": "Когда прибавляются очки, текст подсвечивается желтым цветом, так что... этот параметр отвечает за скорость вспышки"
+}

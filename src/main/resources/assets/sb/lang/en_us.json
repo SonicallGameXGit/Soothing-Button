@@ -1,0 +1,13 @@
+{
+  "sb.options": "Soothing Button options",
+  "sb.options.marioMode": "Mario Mode",
+  "sb.options.screenShake": "Screen Shake",
+  "sb.options.rotateSpeed": "Rotate Speed",
+  "sb.options.rotateSharpness": "Rotate Sharpness",
+  "sb.options.scoreFlashSpeed": "Score Flash Speed",
+  "sb.options.marioMode.tooltip": "Loads mario textures and sounds on button :)",
+  "sb.options.screenShake.tooltip": "How much screen will shake on button edge hit",
+  "sb.options.rotateSpeed.tooltip": "How fast button will rotate on fly (no impact on physics, just a visual effect)",
+  "sb.options.rotateSharpness.tooltip": "How sharp rotation will be (button rotates smoothly to fix hard fixes when it's on ground, so this is why I created it)",
+  "sb.options.scoreFlashSpeed.tooltip": "When score increases, the text is flashing yellow color, so... this variable controls speed of flashing"
+}

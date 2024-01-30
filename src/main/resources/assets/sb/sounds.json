@@ -1,0 +1,21 @@
+{
+  "jump": {
+    "sounds": [
+      "sb:jump"
+    ]
+  },
+  "mario_hit": {
+    "sounds": [
+      "sb:mario_hit0",
+      "sb:mario_hit1"
+    ]
+  },
+  "mario_quote": {
+    "sounds": [
+      "sb:mario_quote0",
+      "sb:mario_quote1",
+      "sb:mario_quote2",
+      "sb:mario_quote3"
+    ]
+  }
+}

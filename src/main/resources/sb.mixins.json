@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.sgx.sb.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "TitleScreenMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
